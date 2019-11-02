@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am Kamran Saifullah. 20 years old Ethical Hacker, Security Researcher, Penetration Tester, Malware Analyst and Reverse Engineer from Pakistan. I've been an active 'Bug Bounty' hunter in the past but have now moved onto low level stuff like ASM, Firmware Analysis, Reverse Engineering of binaries etc. My work has been acknowledged by bunch of organization including but no limited to Google, Microsoft, Sony, BlackBerry, Adobe etc.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+twitter: w4tch_d0g 
