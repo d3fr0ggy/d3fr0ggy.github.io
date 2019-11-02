@@ -17,7 +17,6 @@ avatar: https://raw.githubusercontent.com/w4tch-d0g/w4tch-d0g.github.io/master/i
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: kamransaifullah786@gmail.com
   github: w4tch-d0g
   linkedin: pk.linkedin.com/in/kamransaifulah786
   twitter: w4tch_d0g
@@ -38,7 +37,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/w4tch-d0g.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
