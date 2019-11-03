@@ -9,7 +9,7 @@ On trying to run the program with ltrace utility we can clearly see the MD5 to w
 
 ![alt text](https://raw.githubusercontent.com/w4tch-d0g/w4tch-d0g.github.io/master/images/Kawaii-Flesh-CrackMe/2.png)
 
-bd4c217637bc828982c090b2de41b84d
+So the hash is --> bd4c217637bc828982c090b2de41b84d
 
 ![alt text](https://raw.githubusercontent.com/w4tch-d0g/w4tch-d0g.github.io/master/images/Kawaii-Flesh-CrackMe/3.png)
 
