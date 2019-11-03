@@ -13,7 +13,6 @@ bd4c217637bc828982c090b2de41b84d
 
 ![_config.yml]({{ site.baseurl }}images/Kawaii-Flesh-CrackMe/3.png)
 
-
 On trying to decrypt this hash on Md5 Decryptor website. We are provided with the password.
 
 ![_config.yml]({{ site.baseurl }}images/Kawaii-Flesh-CrackMe/4.png)
