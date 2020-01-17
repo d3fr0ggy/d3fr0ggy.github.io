@@ -12,5 +12,6 @@ Also i have been an active participant in many online CTF competitions. I have a
 
 I am not a complete Malware Analyst and Reverse Engineer but i am on my way to be a proficient one very soon. It is going to be a long journey indeed! 
 
+Meanwhile you can find my writeups on TryHackMe Official Blog @ https://blog.tryhackme.com/author/d3fr0ggy/
 
 
