@@ -22,8 +22,8 @@ Finally we submitted the flag and got our points!
 
 ***
 Follow us on **Twitter**
-- Twitter: deFr0ggy
-- Twitter: BeeFaauBee09
+- @deFr0ggy
+- @BeeFaauBee09
 
 
 
