@@ -2,13 +2,9 @@
 layout: post
 title: BsidesDoha 2020 - MISC — It's Just a Photo — Writeup
 ---
-
 ![alt text](https://raw.githubusercontent.com/deFr0ggy/deFr0ggy.github.io/master/images/Its-Just-a-Photo/logo.png)
 
-
 I along with **BeeFaauBee09** participated in BSidesDoha-CTF remotely but didn't make it to the top due to time issues as we have to work and travel a lot. Although we gave it a try and found the challenges to be pretty basic. 
-
-
 
 This is going to be the solution of the BSidesDoha - **It's Just a Photo** challenge which can be found in the MISC challenges. 
 
