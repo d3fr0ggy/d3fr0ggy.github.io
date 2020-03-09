@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am Frog Man with the handler of **deFr0ggy**. I am an Ethical Hacker, Security Researcher, Penetration Tester, Malware Analyst and Reverse Engineer. I've been an active 'Bug Bounty' hunter in the past but have now moved onto low level stuff like ASM, Firmware Analysis, Reverse Engineering etc. 
+I am Frog Man with the handler of **deFr0ggy**. I am an Ethical Hacker, Security Researcher, Penetration Tester, Malware Analyst and Reverse Engineer at **Frog Community**. I've been an active 'Bug Bounty' hunter in the past but have now moved onto low level stuff like ASM, Firmware Analysis, Reverse Engineering etc. 
 
 My work has been acknowledged by bunch of organization including but no limited to Google, Microsoft, Sony, BlackBerry, Adobe etc.
 
